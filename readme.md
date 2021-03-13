@@ -1,5 +1,4 @@
-# Hey you! Yes you!
+# MEOW!
 
-Welcome on my ![](https://img.shields.io/github/followers/slovak-cat?label=Follow) Profile!  
-
-TRY meow.js! Here -> [Click me](https://github.com/sk-cat/meow.js/)
+Well welcome! it is my honor to welcome you here!
+But I mowed my README>MD to my site `=>` [charliecat.space](https:/charliecat.space)
